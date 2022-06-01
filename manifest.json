@@ -1,0 +1,16 @@
+{
+    "name": "Whatfix Helper",
+    "version": "1.0.0",
+    "description": "A one stop widget that helps you search for Whatfix accounts, JIRA tickets, Confluence articles and StackOverflow answers",
+    "manifest_version": 3,
+    "author": "Jahnavi Prasad",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Whatfix Helper"
+    },
+    "icons": {
+        "16": "logo128.png",
+        "48": "logo128.png",
+        "128": "logo128.png"
+    }
+}
